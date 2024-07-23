@@ -20,13 +20,16 @@
 *** See the bottom of this document for the declaration of the reference variables
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
--->
+
+*** This project won't have shields
+
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
+-->
 
 
 
@@ -34,7 +37,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/Exmator/Estructuras-de-datos">
-    <img src="image_2024-07-22_185148007.png" alt="Logo" width="80" height="80">
+    <img src="image_2024-07-22_185148007.png" alt="Logo" width="305" height="190">
   </a>
 
   <h3 align="center">📥Estructura de datos📤</h3>
@@ -42,13 +45,13 @@
   <p align="center">
     Un lugar donde almacenar, modificar y utilizar todo el material trabajado en clase
     <br />
-    <a href="https://github.com/Exmator/Estructuras-de-datos/tree/main/Ejercicios"><strong>Ver Ejercios»</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/Exmator/Estructuras-de-datos/tree/main/Proyecto">Ver Proyectos</a>
+    <a href="https://github.com/Exmator/Estructuras-de-datos/tree/main/Ejercicios"><strong>Ver Ejercicios</strong></a>
     .
-    <a href="https://github.com/Exmator/Estructuras-de-datos/tree/main/Retos">Ver Retos</a>
-    ·
+    <a href="https://github.com/Exmator/Estructuras-de-datos/tree/main/Proyecto"><strong>Ver Proyectos</a>
+    .
+    <a href="https://github.com/Exmator/Estructuras-de-datos/tree/main/Retos"><strong>Ver Retos</a>
+    <br />
+    <br />
     <a href="https://github.com/Exmator/Estructuras-de-datos/issues/new?labels=bug&template=bug-report---.md">Reportar Bug</a>
     ·
     <a href="https://github.com/Exmator/Estructuras-de-datos/issues/new?labels=enhancement&template=feature-request---.md">Tus ideas de mejora</a>
@@ -245,17 +248,13 @@ Use this space to list resources you find helpful and would like to give credit 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
-[contributors-url]: https://github.com/othneildrew/Best-README-Template/graphs/contributors
+[contributors-url]: https://github.com/Exmator/Estructuras-de-datos/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
-[forks-url]: https://github.com/othneildrew/Best-README-Template/network/members
+[forks-url]: https://github.com/Exmator/Estructuras-de-datos/network/members
 [stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
-[stars-url]: https://github.com/othneildrew/Best-README-Template/stargazers
+[stars-url]: https://github.com/Exmator/Estructuras-de-datos/stargazers
 [issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
-[issues-url]: https://github.com/othneildrew/Best-README-Template/issues
-[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
-[license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/othneildrew
+[issues-url]: https://github.com/Exmator/Estructuras-de-datos/issues
 [product-screenshot]: images/screenshot.png
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
