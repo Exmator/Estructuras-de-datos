@@ -33,23 +33,25 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  <a href="https://github.com/Exmator/Estructuras-de-datos">
+    <img src="image_2024-07-22_185148007.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Best-README-Template</h3>
+  <h3 align="center">📥Estructura de datos📤</h3>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
+    Un lugar donde almacenar, modificar y utilizar todo el material trabajado en clase
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/Exmator/Estructuras-de-datos/tree/main/Ejercicios"><strong>Ver Ejercios»</strong></a>
     <br />
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
+    <a href="https://github.com/Exmator/Estructuras-de-datos/tree/main/Proyecto">Ver Proyectos</a>
+    .
+    <a href="https://github.com/Exmator/Estructuras-de-datos/tree/main/Retos">Ver Retos</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
+    <a href="https://github.com/Exmator/Estructuras-de-datos/issues/new?labels=bug&template=bug-report---.md">Reportar Bug</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
+    <a href="https://github.com/Exmator/Estructuras-de-datos/issues/new?labels=enhancement&template=feature-request---.md">Tus ideas de mejora</a>
   </p>
 </div>
 
