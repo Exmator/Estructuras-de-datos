@@ -20,8 +20,7 @@ struct Cliente{
 	string nombre;
 };
 
-// Estructura factura que contiene toda la informacion necesaria
-// de la factura
+// Estructura factura que contiene toda la informacion necesaria de la factura
 struct Factura{
 	string nombreProducto;
 	int cantidad;
@@ -54,6 +53,10 @@ void llenarFactura(Factura& factura){
 	cout << endl;
 };
 
+/*
+* Esta funcion imprime en consola los datos
+* dentro de la factura
+*/
 void imprimirFactura(Factura& factura){
 
 	Factura* punteroFactura = &factura;
@@ -66,6 +69,10 @@ void imprimirFactura(Factura& factura){
 	cout << "Valor a pagar: " << punteroFactura->cantidad * punteroFactura->precio << endl;
 };
 
+/*
+* Esta funcion crea un archivo de texto que contiene
+* los datos de la factura
+*/
 void crearArchivoSegunFactura(Factura& factura){
 	ofstream archivo(NOMBRE_ARCHIVO_FACTURA);
 	Factura* punteroFactura = &factura;
