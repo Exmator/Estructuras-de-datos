@@ -6,7 +6,7 @@ using namespace std;
 
 class Ayuda{
     private:
-        // Un objeto tipo mapa que contiene todos los comandos del programa 
+        // Un objeto tipo lista que contiene todos los comandos del programa 
         list<Comando> comandos;
         // String que tiene el nombre del archivo que contiene los comandos 
         const string nombreArchivoComandos = "Lista_Comandos.txt";
