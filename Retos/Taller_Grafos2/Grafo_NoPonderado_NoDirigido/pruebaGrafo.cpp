@@ -24,8 +24,8 @@ int main(){
     Vertice* ptrVertice; // Apuntador de vertice
 
     // Se crean las aristas
-    Arista arista1(&vertice1,&vertice2,5);
-    Arista arista2(&vertice2,&vertice3,7);
+    Arista arista1(&vertice1,&vertice2);
+    Arista arista2(&vertice2,&vertice3);
     Arista* ptrArista; // Apuntador de arista
 
     grafo.agregarVertice(&vertice1);
@@ -53,8 +53,6 @@ int main(){
     // Se prueba la funcion buscarAristaPorVertices
     cout << "\nSe busca la arista que contenga a los vertices con dato 1 y 2\n";
     cout << "La direccion en memoria de la arista es " << grafo.buscarAristaPorVertices(*grafo.buscarVerticePorDato(1),*grafo.buscarVerticePorDato(2)) << endl;
-    cout << "Se busca la arista que contenga a los vertices con dato 2 y 1\n";
-    cout << "La direccion en memoria de la arista es " << grafo.buscarAristaPorVertices(*grafo.buscarVerticePorDato(2),*grafo.buscarVerticePorDato(1)) << endl;
     cout << "Se busca la arista que contenga a los vertices con dato 1 y 3\n";
     cout << "La direccion en memoria de la arista es " << grafo.buscarAristaPorVertices(*grafo.buscarVerticePorDato(1),*grafo.buscarVerticePorDato(3)) << endl; // A pesar de ambos vertices estar en el grafo, la arista no existe, por lo que retorna null
 }

@@ -24,8 +24,8 @@ int main(){
     Vertice* ptrVertice; // Apuntador de vertice
 
     // Se crean las aristas
-    Arista arista1(&vertice1,&vertice2,5);
-    Arista arista2(&vertice2,&vertice3,7);
+    Arista arista1(&vertice1,&vertice2);
+    Arista arista2(&vertice2,&vertice3);
     Arista* ptrArista; // Apuntador de arista
 
     grafo.agregarVertice(&vertice1);
